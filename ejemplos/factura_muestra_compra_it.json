@@ -1,0 +1,42 @@
+{
+  "proveedor": {
+    "tipo_documento": "6",
+    "ruc": "20549812451",
+    "razon_social": "COMPUPALACE TECNOLOGIA DEL PERU S.A.C.",
+    "direccion": "Av. Petit Thouars 5356, Miraflores, Lima"
+  },
+  "documento": {
+    "tipo_documento": "FACTURA",
+    "tipo_comprobante": "01",
+    "numero": "F002-0008920",
+    "fecha_emision": "2026-10-01",
+    "moneda": "PEN",
+    "monto_total": 13950.00
+  },
+  "activos": [
+    {
+      "descripcion": "Laptop Lenovo ThinkPad T14 Gen 4 Intel Core i7 32GB RAM 1TB SSD",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad T14 Gen 4",
+      "numero_serie": "PF-3K9821X",
+      "categoria_sugerida": "Equipos de C?mputo",
+      "costo_unitario": 5800.00,
+      "cantidad": 2
+    },
+    {
+      "descripcion": "Servidor en Rack Dell PowerEdge R450 Xeon Silver 16-Core 64GB",
+      "marca": "Dell",
+      "modelo": "PowerEdge R450",
+      "numero_serie": "SRV-2026-DELL-01",
+      "categoria_sugerida": "Equipos de C?mputo",
+      "costo_unitario": 2350.00,
+      "cantidad": 1
+    }
+  ],
+  "consumibles_descartados": [
+    "5x Paquetes de Papel Bond A4 75g",
+    "2x T?ner Original HP LaserJet Negro",
+    "1x Kit de Limpieza de Pantallas y Teclados",
+    "Servicio de Transporte y Flete Local"
+  ]
+}

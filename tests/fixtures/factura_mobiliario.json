@@ -1,0 +1,41 @@
+{
+  "proveedor": {
+    "tipo_documento": "6",
+    "ruc": "20109988771",
+    "razon_social": "MUEBLES & OFICINAS DEL PERU S.A.",
+    "telefono": "01-7198822",
+    "email": "ventas@mueblesoficina.pe"
+  },
+  "documento": {
+    "tipo_documento": "FACTURA",
+    "tipo_comprobante": "01",
+    "numero": "F002-0001550",
+    "fecha_emision": "2026-05-12",
+    "moneda": "PEN",
+    "monto_total": 4800.00
+  },
+  "activos": [
+    {
+      "descripcion": "Escritorio Gerencial en L con cajonera metálica",
+      "marca": "Moduform",
+      "modelo": "Executive-L",
+      "numero_serie": "MF-ESC-01",
+      "costo_unitario": 1200.00,
+      "cantidad": 2,
+      "categoria_sugerida": "Muebles y Enseres"
+    },
+    {
+      "descripcion": "Silla Ergonómica Mesh con soporte lumbar regulable",
+      "marca": "Sihoo",
+      "modelo": "M57",
+      "numero_serie": "SH-SIL-99",
+      "costo_unitario": 800.00,
+      "cantidad": 3,
+      "categoria_sugerida": "Muebles y Enseres"
+    }
+  ],
+  "consumibles_descartados": [
+    "Servicio de flete y armado de muebles",
+    "Pack de 10 protectores plásticos para piso"
+  ]
+}

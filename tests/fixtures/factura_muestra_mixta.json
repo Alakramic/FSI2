@@ -1,0 +1,42 @@
+{
+  "proveedor": {
+    "tipo_documento": "6",
+    "ruc": "20556677889",
+    "razon_social": "COMPUTEC INVERSIONES S.A.C.",
+    "telefono": "01-4455667",
+    "email": "ventas@computec.com.pe"
+  },
+  "documento": {
+    "tipo_documento": "FACTURA",
+    "tipo_comprobante": "01",
+    "numero": "F001-0008899",
+    "fecha_emision": "2026-04-10",
+    "moneda": "PEN",
+    "monto_total": 9250.00
+  },
+  "activos": [
+    {
+      "descripcion": "Laptop Dell Latitude 5440 Core i7 16GB 512GB SSD",
+      "marca": "Dell",
+      "modelo": "Latitude 5440",
+      "numero_serie": "DL-778899-X",
+      "costo_unitario": 4200.00,
+      "cantidad": 2,
+      "categoria_sugerida": "Equipos de Cómputo"
+    },
+    {
+      "descripcion": "Monitor Profesional Dell UltraSharp 27 pulgadas 4K",
+      "marca": "Dell",
+      "modelo": "U2723QE",
+      "numero_serie": "MN-445566",
+      "costo_unitario": 850.00,
+      "cantidad": 1,
+      "categoria_sugerida": "Equipos de Cómputo"
+    }
+  ],
+  "consumibles_descartados": [
+    "Caja de Papel Fotocopia Bond A4 75g (5 millares)",
+    "Cartucho de Tóner Láser HP 85A Negro",
+    "Café Gourmet en Grano 1kg para cafetera"
+  ]
+}
